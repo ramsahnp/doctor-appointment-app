@@ -51,7 +51,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>doctor-appointment-app</finalName>
+		<finalName>doctor-appointment-app1</finalName>
 	</build>
 
 </project>
